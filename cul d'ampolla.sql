@@ -1,0 +1,1 @@
+1SELECT * FROM `6_cul_d'ampolla`.venda;
